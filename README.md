@@ -1,2 +1,0 @@
-# farsight
-it is interesting!
